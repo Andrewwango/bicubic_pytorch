@@ -1,3 +1,3 @@
 __all__ = ['core', 'core_warp']
 
-from core import imresize
+from .core import imresize
