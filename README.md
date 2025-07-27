@@ -7,3 +7,4 @@ Install with `pip`: `pip install bicubic_pytorch`
 Changes:
 
 - Remove `cv2` dependency
+- Packaging
